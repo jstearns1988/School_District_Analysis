@@ -10,6 +10,16 @@ As shown in the district summary below, before removing the Math and Readings sc
 After removing the scores from Thomas High School ninth graders; the average math score lowered to 78.9, average reading score did not change, percent passing math lowered to 74.8%, passing reading reduced to 85.7%, and overall passing is now slightly less at 64.9%.
 ![School District Summary After](https://github.com/jstearns1988/School_District_Analysis/blob/main/School%20District%20Summary%20After.png)
 
+### How Each of the seven school district metrics are affected by changes in the data
+  - Total Schools remains at 15
+  - Total Students remains at 39,170
+  - Total Budget remains at $24,649,428.00
+  - Average Math Score slightly decreases from 79.0 to 78.9
+  - Average Reading Score remains at 81.9
+  - Percentage Passing Math drops from 75% to 74.8%
+  - Percentage Passing Reading lowers from 85.8% to 85.7%
+  - Overall passing changed from 65% to 64.9%
+
 #### The results after removing Thomas High School's scores are a small change. We will next dig deeper into the individual school analysis data to see how signifant the Thomas High School ninth grade scores were affecting the final analysis.
 
 ### How is the school summary affected?
